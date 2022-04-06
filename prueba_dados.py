@@ -20,4 +20,4 @@ while ciclo:
         jugar=input("por favor selecciona una opcion válida s/n")
         
 print("gracias por jugar \nHasta pronto")
-input("")
+input("prueba 2 repositorio")
