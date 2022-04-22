@@ -1,0 +1,33 @@
+                 Análisis y visualización de datos
+
+        Historia del analisis y visualización de datos
+
+    El análisis de datos es la disciplina que se encarga de examinar un conjunto de datos para poder ampliar el conocimiento que tenemos de ellos y así poder   tomar mejores decisiones. Para ésto se vale de operaciones y análisis estadísticos para poder encontrar alguna tendencia en los datos.
+	La visualización de datos, se centra en poder representar de forma completamente visual todos estos datos para poder “ver” de manera mucho más sencilla las tendencias, valores atípicos o en general cualquier patrón de datos. Como podemos ver estas 2 áreas van completamente de la mano, pues para hacer un buen análisis de datos se requiere de poder hacer una visualización de lo que buscamos, y  no podríamos visualizar sin un previo análisis de los datos con los que contamos.
+
+	La primera tabla de datos conocida fue creada en el siglo II en Egipto, y fue hecha para catalogar información astrológica y así ayudar a las prácticas de navegación de la época. Podemos notar que  como la mayoría del conocimiento de la humanidad este también nace de poder resolver problemas cotidianos, como la navegación y posteriormente el comercio.
+
+	Tal vez los más importantes avances para poder visualizar datos se dieron en el siglo XVII cuando René Descartes inventó el sistema cartesiano de coordenadas con el que se pudo obtener quizás la primera representación verdaderamente visual de datos cuantitativos. Y posteriormente en el siglo XIX cuando William Playfair inventó la mayoría de los gráficos con los que trabajamos hoy en día  las líneas, barras y círculos.
+	por otra parte el parteaguas más importante dentro del análisis de datos fue en la década de 1940 cuando alan Turing logró crear una máquina capaz de analizar documentos cifrados por los alemanes, siendo la primer automatización real y que daría las bases a todas las maravillas computacionales que se pueden hacer hoy en dia.
+
+        Herramientas y mejores visualizaciones. 
+
+    Las herramientas que se usan actualmente para hacer análisis y visualización de datos son muy variadas y dentro de ellas están tableau, infogram o incluso excel, diseñadas para poder hacer todo de una forma muy visual y sencilla, sin la necesidad de tener que usar mucho "código" y teniendo gráficas y funciones de una forma directa. Sin embargo para hacer un análisis un poco mas profundo o de cantidades masivas de datos, se siguen prefiriendo usar lenguajes de programación hechos especificamente para el manejo de datos como R o lenguajes mas extensos en donde se han hecho paqueterías especificas para estas situaciones como Python.
+    Dentro de la comunidad de Data science ha habido un debate muy extenso a cerca de cual de estos 2 elnguajes es el mejor para estas actividades, sin embarho ya está practicamente cerrado, pues la gran mayoría, (incluyendome) consideramos que python es mucho mejor, siendo que para practicamente cualquier cosa que desees hacer en R, ya existe una paquetería de pthon que tambien lleva a cabo esa actividad y muchas veces de una manera mas sencilla.
+
+        Relación con las demás ciencias, particularmente con biocolor
+
+    Con el gran crecimiento de la informática en el último par de décadas se descubren nuevas formas en las que ésta puede ayudar a todas las demás ciencias y áreas del conocimiento. Un ejemplo de este es la epidemiología donde tenemos el caso reciente de la pandemia de covid 19, en la que  la ciencia de datos fue indispensable para poder analizar el crecimiento de la enfermedad y así poder idear formas para detenerla.Tambien se utilizó para hallar la forma óptima para proceder con la vacunación y lograr frenar un poco la enfermedad. 
+
+    Algunos otros ejemplos del uso de la ciencia de datos para las demás ciencias pueden ser la genómica en la que sirve para acelerar los procesos relacionados con el análisis de secuencias de ADN y, en última instancia, ayudan a informar a los equipos que buscan combatir una enfermedad determinada. 
+    
+    En la biología también se usa de forma frecuente, pues la bioestadística está basada en el analisis de datos, y con ella se hacen todos los modelos tanto para aproximar la cantidad de especies que hay en un habitad, así como poder generalizar el comportamiento que tienen. Incluso se puede usar para analizar los patrones en la pigmentación de los animales y la relación que hay entre esta y su comportamiento o su rol biológico, pudiendo llegar a conclusiones muy interesantes, pero ese tema lo desarrollaremos más adelante pues será el tema principal de este proyecto.
+
+    Regresando a nuestro tema, la biología ha usado la ciencia de datos de formas tanto directas como indirectas desde sus inicios, pero actualmente con el avance tecnológico previamente mencionado se ha llegado a crear una nueva rama nacida completamente de la fusión de estas 2 áreas, dando pie a la bioinformática. Del diccionario de Oxford es «la ciencia de recopilar y analizar datos biológicos complejos, como códigos genéticos»
+
+    En otras palabras la Bioinformática es una subdisciplina de la biología y las ciencias computacionales que se encarga de adquirir, almacenar, analizar y diseminar la información biológica, en gran parte correspondiente a las secuencias de ADN y aminoácidos. La Bioinformática usa programas informáticos que tienen muchas aplicaciones, como por ejemplo: determinar las funciones de genes y proteínas, establecer relaciones evolutivas y predecir la conformación tridimensional de las proteínas.
+
+
+    
+
+
