@@ -1,0 +1,12 @@
+Biología del color
+	Comencemos definiendo qué es el color. Según la RAE definimos el color como: Impresión que producen en la retina los rayos de luz reflejados y absorbidos por un cuerpo, según la longitud de onda de estos rayos. Y aunque podríamos ir a definiciones más exactas físicamente, creo que esta nos vale perfectamente para el contenido de este trabajo. Por lo tanto manejaremos el color como la percepción que tenemos de las ondas de luz en función de su longitud.
+
+	Hay varias formas en las que el color se puede generar, como la radiación que un cuerpo genera por la excitación de sus partículas(efecto ligado completamente a la temperatura),  el reflejo y absorción de un cuerpo iluminado por una haz de luz, o la luminiscencia (efecto que no está ligado a la temperatura por lo que también se le suele llamar “luz fría”). Al conjunto de estos colores que puede generar algún ente, le llamamos coloración.
+
+    La coloración es un rasgo biológico complicado y de gran relevancia.Como  lo mencionamos anteriormente, Hay varias formas de producir color y en particular los animales pueden producirse por descomposición de la luz, por absorción o emisión de luz. Y para estos tiene una incontable cantidad de funciones, como el camuflaje, enviar señales de advertencia, atraer parejas, enviar señales sociales, regular su temperatura corporal, etc.
+    
+	En los últimos 20 años el campo de la investigación de la coloración animal ha sido impulsado muy rápidamente por todos los avances tecnológicos actuales. Si bien desde hace mucho tiempo se ha tomado al color como un factor importante para comprender la evolución, recientemente científicos de diversas áreas como ecólogos sensoriales, del comportamiento, biólogos evolutivos y antropólogos se han unido para estudiar de forma más formal como los animales producen y perciben el color y la gran importancia que este conlleva.
+
+	Este equipo tan multidiciplinario aunado a la nueva tecnologia como las imagenes digitales, estudios de laboratorios y analisis comparativos a gran escala son lo que ha llevado a considerar como una nueva ciencia a la “biología del color”, resolviendo misterios como por qué las cebras tienen rayas blancas y negras, por que los pandas son blancos y negros, entro otros más.
+	
+    A pesar de que la biología del color engloba diversas y muy interesantes áreas, en este trabajo nos centraremos en la visualización del color, así como ilusiones visuales. 
