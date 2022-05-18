@@ -1,0 +1,29 @@
+Visión del color
+		¿qué es el color?
+	Comencemos tratando un tema muy importante, ¿qué es el color? Y ¿Cómo es que lo percibimos? Para la primera pregunta podemos citar la RAE quien define el color como: “Impresión que producen en la retina los rayos de luz reflejados y absorbidos por un cuerpo, según la longitud de onda de estos rayos” de lo cual podemos recatar un par de cosas importantes, primero, para que haya algún color primero tiene que haber luz que se refleje en los objetos y así pueda llegar a nuestros ojos, cosa que a pesar de ser bastante obvia (pues así es como vemos) vale la pena recalcar, pues es un principio importante que retomaremos más tarde.
+
+	Segundo, el color que va a interpretar nuestro cerebro depende completamente de la longitud y frecuencia de onda de la luz, por lo que si estas son demasiado grandes o demasiado chicas salen del rango que podemos ver, creando así lo que conocemos como espectro visible de luz que Cubre todos los colores del azul a 400 nm al rojo a 700 nm. La luz azul contiene más energía que la roja. (1)
+	
+	Por lo que en este trabajo manejaremos el color como “la percepción que tenemos de las ondas de luz en función de su longitud”.
+
+	Sin embargo, como ya lo habíamos mencionado el mundo no tiene color en si, si no que es el reflejo de la luz en la superficie de los objetos o citando a Pedro Gouras, “La visión del color es una ilusión creada por las interacciones de miles de millones de neuronas en nuestro cerebro. No hay color en el mundo exterior; es creado por programas neuronales y proyectado en el mundo exterior que vemos” (2) 
+
+	Así entramos en nuestra segunda pregunta, ¿Cómo percibimos el color? Y siguiendo esta línea de pensamiento, el estudio de la visión del color se debe concentrar en estudiar a nivel de células cerebrales individuales y las funciones de cada organelo diferente para en conjunto crear dicha visión del color.
+
+	Comencemos con los fotorreceptores, que son las neuronas especializadas en detectar la luz mediante orgánulos llamados “segmento externo” estructuras membranosas donde se encuentran incrustadas las proteínas que absorben la luz (opsinas).  En los ojos de los vertebrados hay principalmente 2 tipos de fotorreceptores, los bastones y los conos cuya principal diferencia es que los bastones son muy sensibles a la luz, pero son muy lentos, mientras que los bastones son mucho menos sensibles a la luz y también son bastante más rápidos. En los humanos los bastones prácticamente no se usan pues la vida moderna cuenta con gran iluminación en cada esquina, haciendo que los conos puedan funcionar perfectamente la mayoría del tiempo.
+	
+	Cada cono responde únicamente a la energía que está especializado en absorber, por lo que son daltónicos y la detección de objetos puede llegar a fallar si los objetos el fondo reflejan energía similar, esto se soluciona con 2 o más tipos de conos cada uno sensible a un espectro diferente. Al tener 2 tipos de conos tendríamos un sistema divariante donde un tipo de cono absorbería la luz en “amarilla” y otro la luz Azul, principalmente por el tipo de luz natural siendo que nuestro sol es amarillo y su color opuesto es el azul, pudiendo así percibir una gran variedad de espectros visibles. Con este sistema se puede percibir perfectamente los objetos diferenciar las partes más alejadas de dicho objeto y distinguirlo del fondo, así como notar si ese objeto se acerca a nosotros al menos en la mayoría de las ocasiones.
+	
+	Sin embargo, este sistema aún no es perfecto si, por ejemplo, una superficie refleja menos desde ambos lados del espectro visible, es decir doblando el espectro solar, sería básicamente invisible para este sistema.
+
+	Para corregir este tipo de problemas se creó una nueva dimensión del color duplicando el gen de las opsinas del cono L (el cono que detecta la luz amarilla) y creó 2 nuevas percepciones cromáticas una roja y la otra verde, dando pie a lo que conocemos como los colores primarios (luz) Rojo, Verde y Azul o por sus siglas en inglés RGB. 
+
+	Este sistema trivariante corrige el problema anterior, pues es imposible que los 3 tipos de conos absorban la misma cantidad de luz del objeto y de su fondo. 
+
+	Y aunque así se vuelve sumamente eficiente en la mayoría de las situaciones que se pueden llegar a presentar dentro de la naturaleza, aún no es infalible y puede llegar a confundirse o fallar en situaciones particulares dando pie a las “ilusiones visuales” Tema principal del presente trabajo, por lo que no ahondaremos más en el tema de los fotorreceptores, los procesos que relacionan los conos con las células ganglionares enanas y demás procesos que se llevan a cabo en el cerebro de los vertebrados para la percepción del color, pues esto supera el alcance de nuestra investigación, sin embargo si el lector gusta conocer este tema más a fondo se recomienda leer el artículo “color visión, Gouras P.”(2)
+
+
+		Referencias:
+	1. 	Glosario: Espectro electromagnético [Internet]. [cited 2022 May 16]. Available from: https://ec.europa.eu/health/scientific_committees/opinions_layman/es/lamparas-bajo-consumo/glosario/def/espectro-electromagnetico.htm
+	
+	2. 	Gouras P. Color Vision. Webvision: The Organization of the Retina and Visual System [Internet]. 2009 Jul 1 [cited 2022 May 11]; Available from: https://www.ncbi.nlm.nih.gov/books/NBK11537/
