@@ -1,5 +1,5 @@
-Visión del color
-		¿qué es el color?
+#Visión del color
+		##¿Qué es el color?
 	Comencemos tratando un tema muy importante, ¿qué es el color? Y ¿Cómo es que lo percibimos? Para la primera pregunta podemos citar la RAE quien define el color como: “Impresión que producen en la retina los rayos de luz reflejados y absorbidos por un cuerpo, según la longitud de onda de estos rayos” de lo cual podemos recatar un par de cosas importantes, primero, para que haya algún color primero tiene que haber luz que se refleje en los objetos y así pueda llegar a nuestros ojos, cosa que a pesar de ser bastante obvia (pues así es como vemos) vale la pena recalcar, pues es un principio importante que retomaremos más tarde.
 
 	Segundo, el color que va a interpretar nuestro cerebro depende completamente de la longitud y frecuencia de onda de la luz, por lo que si estas son demasiado grandes o demasiado chicas salen del rango que podemos ver, creando así lo que conocemos como espectro visible de luz que Cubre todos los colores del azul a 400 nm al rojo a 700 nm. La luz azul contiene más energía que la roja. (1)
