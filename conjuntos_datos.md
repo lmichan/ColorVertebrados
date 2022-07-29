@@ -1,3 +1,12 @@
+#prueba 1 de modificaciones con markdown
+
+###prueba 2 de markdown: listas
+1.-numero 1
+2.- numero 2
+  1.- sublista 1
+  
+
+
 Investigaremos conjuntos de datos sobre ilusión del color para realizar preguntas, procesar la información matemáticamente y generar visualizaciones de información para responderlas.
 
 Para localizar los conjuntos de datos que se procesarán se segurá la siguiente estrategia:
