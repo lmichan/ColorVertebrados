@@ -1,4 +1,4 @@
-# Ilusion Vertebrados
+# Color Vertebrados
 Análisis y visualización de datos para bioinformación:color en los vertebrados
 
 Este proyecto se realiza en el [Laboratorio de Bioinformación de la Facultad de Ciencias de la UNAM](https://sites.google.com/a/ciencias.unam.mx/layla-michan/Home) y forma parte de la [Línea de investigación Biocolores](https://sites.google.com/a/ciencias.unam.mx/layla-michan/hub-biocolores)
